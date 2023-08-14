@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - 👀 Hi, I’m interested in Image Processing, Deep Learning, Computer Vision and NLP
 - 🌱 I’m currently studying Electronics and Telecommunication at Hanoi University of Science and Technology (HUST)
 - 💼 I am engaged in research and study at EDABK laboratory
-- 📫 How to reach me **khoinghiembka@gmail.com**
+- 🔭 How to reach me **khoinghiembka@gmail.com**
   
 <h1 align="left" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width = "30",height = "30" style="margin-right: 10px;">📫 How to reach me </h1>
 <p align="left">
