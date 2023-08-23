@@ -34,6 +34,7 @@ Here are some ideas to get you started:
 <a href="https://www.tutorialspoint.com/cprogramming/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png" alt="C" width="40" height="40"/> </a>
 <a href="https://html.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML" width="40" height="40"/> </a> </a>
 
-
+<!--
 ![tundedpy's github stats](https://github-readme-stats.vercel.app/api?username=KhoiNghiem&show_icons=true&theme=radical)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=KhoiNghiem&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+-->
