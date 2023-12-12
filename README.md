@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Khoi</h1>
+<img src="http://readme-typing-svg.herokuapp.com?font=ubuntu&color=%2336BCF7&vCenter=true&multiline=true&height=39&lines=Hello">
+
+<h1 align="center">Hi 👋, I'm Khoi Nghiem</h1>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=KhoiNghiem&label=Profile%20views&color=0e75b6&style=flat" alt="KhoiNghiem" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=KhoiNghiem&theme=radical&row=1" alt="KhoiNghiem" /></a></p>
